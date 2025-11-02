@@ -1,4 +1,4 @@
-module github.com/golang/freetype
+module github.com/caffeine-storm/freetype
 
 go 1.24.0
 
